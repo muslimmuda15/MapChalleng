@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyChallengeTest</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="empty">No data found</string>
+    <string name="failed">Something went wrong, try again!</string>
+    <string name="unknown_error">Something went wrong, check your connection, try again!</string>
+    <string name="gps_problem_title">GPS Problem</string>
+    <string name="gps_problem">It seems you have a problem with GPS, we will set your current area on "Tebet, Jakarta" automatically.</string>
+    <string name="close">CLOSE</string>
+    <string name="search_address">Cari Alamat</string>
+    <string name="select_address">Pilih Alamat</string>
+    <string name="error_place">Sepertinya ada kesalahan, coba lagi!</string>
+    <string name="please_wait">Please wait</string>
+</resources>
